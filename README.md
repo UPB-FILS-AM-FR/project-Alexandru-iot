@@ -15,4 +15,4 @@ Composants utilisés:
 | Robot Kit 2WD | Structure du robot | [100,00 RON](https://roboromania.ro/produs/kit-sasiu-2wd-robot-car-chassis-kit-construieste-singur-un-robot/) |
 
 
-[Tutorial 1]([https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater](https://youtu.be/dBA_23jfRBs))
+[Tutorial 1](https://www.youtube.com/watch?v=dBA_23jfRBs)
